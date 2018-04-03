@@ -6,7 +6,7 @@
 * [Development history](#development-history)
 
 # About Washer Watcher
-Placeholder
+The UH dorms have washers available for the students to use for their needs. However, there isn't any way to see whether or not there's actually any washers available when a student decides to do their laundry. The solution to this problem is Washer Watcher. This application will allow others to provide status updates of the availability of the washers. A timestamp will be provided with each update so a person can gauge the reliability of the information provided. The ultimate goal is to help alleviate the problem where someone goes to do their laundry just to find out that there isn't any available washers!
 
 # Installation
 Placeholder
