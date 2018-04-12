@@ -23,6 +23,12 @@ On this page, a note can be created for a washer. This can be used for other inf
 This is the main page that a user visits to update the in use or not in use status of a washing machine.
 ![](images/washer-update.png)
 
+This page is for administrators of the application to add new washing machines to a dorm.
+![](images/add-washer.png)
+
+Any common questions users might have can be answered in the Frequently Asked Questions page.
+![](images/faq.png)
+
 # Installation
 Placeholder
 
