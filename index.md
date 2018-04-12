@@ -12,21 +12,23 @@ The UH dorms have washers available for the students to use for their needs. How
 
 # Mockup
 The page that a user first sees.
+[Landing Page](http://washerwatcher.meteorapp.com/#/)
 ![](images/home-page.png)
 
-This page shows the availability of the washers associated with each dorm.
+This page shows the availability of the washers associated with each dorm. [Washing Machine Availability Page](http://washerwatcher.meteorapp.com/#/machines)
 ![](images/washer-availability.png)
 
-On this page, a note can be created for a washer. This can be used for other information such as maintenance.
+[]
+On this page, a note can be created for a washer. This can be used for other information such as maintenance. [Washing Machine Notes Page](http://washerwatcher.meteorapp.com/#/notes)
 ![](images/washer-notes.png)
 
-This is the main page that a user visits to update the in use or not in use status of a washing machine.
+This is the main page that a user visits to update the in use or not in use status of a washing machine. [Update Washing Machine Page](http://washerwatcher.meteorapp.com/#/machines)
 ![](images/washer-update.png)
 
-This page is for administrators of the application to add new washing machines to a dorm.
+This page is for administrators of the application to add new washing machines to a dorm. [Add Washing Machine Page](http://washerwatcher.meteorapp.com/#/admin)
 ![](images/add-washer.png)
 
-Any common questions users might have can be answered in the Frequently Asked Questions page.
+Any common questions users might have can be answered in the Frequently Asked Questions page. [Frequently Asked Questions Page](http://washerwatcher.meteorapp.com/#/machines)
 ![](images/faq.png)
 
 # Installation
