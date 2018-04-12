@@ -38,7 +38,8 @@ First, install Meteor
 Placeholder
 
 # Development History
-[Milestone 1 (M1)](https://github.com/washerwatcher/washerwatcher/projects/1)
+[Milestone 1 (M1)](https://github.com/washerwatcher/washerwatcher/projects/1) 
+
 [Milestone 2 (M2)](https://github.com/washerwatcher/washerwatcher/projects/2)
 
 # The Team
