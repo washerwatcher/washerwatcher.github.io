@@ -8,7 +8,7 @@
 * [The Team](#the-team)
 
 # About Washer Watcher
-The UH dorms have washers available for the students to use for their needs. However, there isn't any way to see whether or not there's actually any washers available when a student decides to do their laundry. The solution to this problem is Washer Watcher. This application will allow others to provide status updates of the availability of the washers. A timestamp will be provided with each update so a person can gauge the reliability of the information provided. The ultimate goal is to help alleviate the problem where someone goes to do their laundry just to find out that there isn't any available washers!
+The UH dorms have washers available for the students to use for their needs. However, there isn't any way to see whether or not there's actually any washers available when a student decides to do their laundry. The solution to this problem is [Washer Watcher](http://washerwatcher.meteorapp.com/). This application will allow others to provide status updates of the availability of the washers. A timestamp will be provided with each update so a person can gauge the reliability of the information provided. The ultimate goal is to help alleviate the problem where someone goes to do their laundry just to find out that there isn't any available washers!
 
 # Mockup
 The page that a user first sees.
@@ -32,13 +32,14 @@ Any common questions users might have can be answered in the Frequently Asked Qu
 ![](images/faq.png)
 
 # Installation
-Placeholder
+First, install Meteor
 
 # Design
 Placeholder
 
 # Development History
-Placeholder
+[Milestone 1 (M1)](https://github.com/washerwatcher/washerwatcher/projects/1)
+[Milestone 2 (M2)](https://github.com/washerwatcher/washerwatcher/projects/2)
 
 # The Team
 - Jarrin Kasuya
