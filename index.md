@@ -32,7 +32,13 @@ Any common questions users might have can be answered in the Frequently Asked Qu
 ![](images/faq.png)
 
 # Installation
-First, install Meteor
+First, install Meteor.
+
+Next, download the latest version of [Washer Watcher](https://github.com/washerwatcher/washerwatcher) to your computer. You can either download it straight from GitHub, or fork it to your account and clone it to your desktop.
+
+cd into the app\ directory of the repository, and then run meteor npm install and meteor npm run start to begin the app.
+
+To reset the data, you may exit meteor, and then run meteor reset
 
 # Design
 Placeholder
