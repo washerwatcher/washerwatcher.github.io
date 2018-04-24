@@ -28,7 +28,7 @@ To update the status of the washer, or to add a note to a particular washer, cli
 Admin users view a page similar to the availability page, but have the ability to delete a broken washer, or add a new washer. [Admin Add Washer Page (Note: you must be certified as admin to view)](http://washerwatcher.meteorapp.com/#/machines)
 ![](images/Admin.PNG)
 
-Super-Admins can view all accounts and change any user to be an admin. [Super-Admin Account Status Page](http://washerwatcher.meteorapp.com/#/admin)
+Super-Admins can view all accounts and change any user to be an admin. [Super-Admin Account Status Page (Note: You must be certified as Super-Admin to view)](http://washerwatcher.meteorapp.com/#/admin)
 ![](images/SuperAdmin.PNG)
 
 Any common questions users might have can be answered in the Frequently Asked Questions page. [Frequently Asked Questions Page](http://washerwatcher.meteorapp.com/#/faq)
