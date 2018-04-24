@@ -30,7 +30,7 @@ This page shows the availability of the washers associated with the current dorm
 
 To update the status of the washer, or to add a note to a particular washer, click the Show Modal Button. 
 [Washing Machine Availability Page](http://washerwatcher.meteorapp.com/#/machines)
-![](images/Notes and Availability.PNG)
+![](images/Notes_and_Availability.PNG)
 
 Admin users view a page similar to the availability page, but have the ability to delete a broken washer, or add a new washer. 
 [Admin Add Washer Page (Note: you must be certified as admin to view)](http://washerwatcher.meteorapp.com/#/machines)
