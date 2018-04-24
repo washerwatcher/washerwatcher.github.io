@@ -16,21 +16,20 @@ The page that a user first sees. It introduces them to the goal of the app, prov
 ![](images/Landing.PNG)
 
 If a user does not have an account, they can register for one here. On this page, they can choose their dorm, so that only the washers associated with that dorm will be displayed.
-[Landing Page](http://washerwatcher.meteorapp.com/#/)
+[Landing Page](http://washerwatcher.meteorapp.com/#/signup)
 ![](images/Register.PNG)
 
 This page shows the availability of the washers associated with the current dorm of the user. [Washing Machine Availability Page](http://washerwatcher.meteorapp.com/#/machines)
-![](images/Availability.png)
+![](images/Availability.PNG)
 
-[]
-On this page, a note can be created for a washer. This can be used for other information such as maintenance. [Washing Machine Notes Page](http://washerwatcher.meteorapp.com/#/notes)
-![](images/washer-notes.png)
+To update the status of the washer, or to add a note to a particular washer, click the Show Modal Button. [Washing Machine Availability Page](http://washerwatcher.meteorapp.com/#/machines)
+![](images/Notes and Availability.PNG)
 
-This is the main page that a user visits to update the in use or not in use status of a washing machine. [Update Washing Machine Page](http://washerwatcher.meteorapp.com/#/update)
-![](images/washer-update.png)
+Admin users view a page similar to the availability page, but have the ability to delete a broken washer, or add a new washer. [Admin Add Washer Page (Note: you must be certified as admin to view)](http://washerwatcher.meteorapp.com/#/machines)
+![](images/Admin.PNG)
 
-This page is for administrators of the application to add new washing machines to a dorm. [Add Washing Machine Page](http://washerwatcher.meteorapp.com/#/admin)
-![](images/add-washer.png)
+Super-Admins can view all accounts and change any user to be an admin. [Super-Admin Account Status Page](http://washerwatcher.meteorapp.com/#/admin)
+![](images/SuperAdmin.PNG)
 
 Any common questions users might have can be answered in the Frequently Asked Questions page. [Frequently Asked Questions Page](http://washerwatcher.meteorapp.com/#/faq)
 ![](images/faq.png)
