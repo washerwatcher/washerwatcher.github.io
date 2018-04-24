@@ -19,6 +19,10 @@ If a user does not have an account, they can register for one here. On this page
 [Landing Page](http://washerwatcher.meteorapp.com/#/signup)
 ![](images/Register.PNG)
 
+Should a user move dorms or change dorms every semester, the preferences page allows the user to switch the dorm they are currently seeing.[Landing Page](http://washerwatcher.meteorapp.com/#/preferences)
+![](images/Preferences.PNG)
+
+
 This page shows the availability of the washers associated with the current dorm of the user. [Washing Machine Availability Page](http://washerwatcher.meteorapp.com/#/machines)
 ![](images/Availability.PNG)
 
