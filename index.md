@@ -19,23 +19,29 @@ If a user does not have an account, they can register for one here. On this page
 [Landing Page](http://washerwatcher.meteorapp.com/#/signup)
 ![](images/Register.PNG)
 
-Should a user move dorms or change dorms every semester, the preferences page allows the user to switch the dorm they are currently seeing.[Landing Page](http://washerwatcher.meteorapp.com/#/preferences)
+Should a user move dorms or change dorms every semester, the preferences page allows the user to switch the dorm they are currently seeing.
+[User Preferences Page](http://washerwatcher.meteorapp.com/#/preferences)
 ![](images/Preferences.PNG)
 
 
-This page shows the availability of the washers associated with the current dorm of the user. [Washing Machine Availability Page](http://washerwatcher.meteorapp.com/#/machines)
+This page shows the availability of the washers associated with the current dorm of the user. 
+[Washing Machine Availability Page](http://washerwatcher.meteorapp.com/#/machines)
 ![](images/Availability.PNG)
 
-To update the status of the washer, or to add a note to a particular washer, click the Show Modal Button. [Washing Machine Availability Page](http://washerwatcher.meteorapp.com/#/machines)
+To update the status of the washer, or to add a note to a particular washer, click the Show Modal Button. 
+[Washing Machine Availability Page](http://washerwatcher.meteorapp.com/#/machines)
 ![](images/Notes and Availability.PNG)
 
-Admin users view a page similar to the availability page, but have the ability to delete a broken washer, or add a new washer. [Admin Add Washer Page (Note: you must be certified as admin to view)](http://washerwatcher.meteorapp.com/#/machines)
+Admin users view a page similar to the availability page, but have the ability to delete a broken washer, or add a new washer. 
+[Admin Add Washer Page (Note: you must be certified as admin to view)](http://washerwatcher.meteorapp.com/#/machines)
 ![](images/Admin.PNG)
 
-Super-Admins can view all accounts and change any user to be an admin. [Super-Admin Account Status Page (Note: You must be certified as Super-Admin to view)](http://washerwatcher.meteorapp.com/#/admin)
+Super-Admins can view all accounts and change any user to be an admin. 
+[Super-Admin Account Status Page (Note: You must be certified as Super-Admin to view)](http://washerwatcher.meteorapp.com/#/admin)
 ![](images/SuperAdmin.PNG)
 
-Any common questions users might have can be answered in the Frequently Asked Questions page. [Frequently Asked Questions Page](http://washerwatcher.meteorapp.com/#/faq)
+Any common questions users might have can be answered in the Frequently Asked Questions page. 
+[Frequently Asked Questions Page](http://washerwatcher.meteorapp.com/#/faq)
 ![](images/FAQ.PNG)
 
 
