@@ -32,24 +32,30 @@ Super-Admins can view all accounts and change any user to be an admin. [Super-Ad
 ![](images/SuperAdmin.PNG)
 
 Any common questions users might have can be answered in the Frequently Asked Questions page. [Frequently Asked Questions Page](http://washerwatcher.meteorapp.com/#/faq)
-![](images/faq.png)
+![](images/FAQ.PNG)
 
-# Installation
+
+# Community Feedback
+Five users were asked to test out this app, one of them being a current member in the UH Manoa dorms. All five users generally gave very positive feedback. They enjoyed how user-friendly the app is, and how user-accomodating the app is. They liked how you can set your dorm and then change your dorm in the preferences page. They found the landing page to be very instructive and well formatted. Finally, users like how timestamped updates and notes are able to be inserted into the app.
+
+The biggest concern of this app is the inability to force users to use the app. All five users expressed concerns that while the app is very easy to use and very easy to learn, a lot of users will not willingly update a washer's status. They want us to find a way to be able to update a washer automatically, through either motion detectors, etc. This can be done with a Raspberry Pi device, and may be implemented in the future.
+
+
+# Developer Guide
 First, install Meteor.
 
 Next, download the latest version of [Washer Watcher](https://github.com/washerwatcher/washerwatcher) to your computer. You can either download it straight from GitHub, or fork it to your account and clone it to your desktop.
 
 cd into the app\ directory of the repository, and then run meteor npm install and meteor npm run start to begin the app.
 
-To reset the data, you may exit meteor, and then run meteor reset
+To reset the data, you may exit meteor, and then run meteor reset.
 
-# Testing
-Placeholder
 
 # Development History
 [Milestone 1 (M1)](https://github.com/washerwatcher/washerwatcher/projects/1) 
 
 [Milestone 2 (M2)](https://github.com/washerwatcher/washerwatcher/projects/2)
+
 
 # The Team
 - Jarrin Kasuya
