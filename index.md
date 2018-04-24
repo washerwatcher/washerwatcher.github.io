@@ -16,7 +16,7 @@ The page that a user first sees. It introduces them to the goal of the app, prov
 ![](images/Landing.PNG)
 
 If a user does not have an account, they can register for one here. On this page, they can choose their dorm, so that only the washers associated with that dorm will be displayed.
-[Landing Page](http://washerwatcher.meteorapp.com/#/signup)
+[Register Page](http://washerwatcher.meteorapp.com/#/signup)
 ![](images/Register.PNG)
 
 Should a user move dorms or change dorms every semester, the preferences page allows the user to switch the dorm they are currently seeing.
