@@ -10,13 +10,17 @@
 # About Washer Watcher
 The UH dorms have washers available for the students to use for their needs. However, there isn't any way to see whether or not there's actually any washers available when a student decides to do their laundry. The solution to this problem is [Washer Watcher](http://washerwatcher.meteorapp.com/). This application will allow others to provide status updates of the availability of the washers. A timestamp will be provided with each update so a person can gauge the reliability of the information provided. The ultimate goal is to help alleviate the problem where someone goes to do their laundry just to find out that there isn't any available washers!
 
-# Mockup
-The page that a user first sees.
+# User Guide
+The page that a user first sees. It introduces them to the goal of the app, providing them with a spot to log in.
 [Landing Page](http://washerwatcher.meteorapp.com/#/)
-![](images/home-page.png)
+![](images/Landing.PNG)
 
-This page shows the availability of the washers associated with each dorm. [Washing Machine Availability Page](http://washerwatcher.meteorapp.com/#/machines)
-![](images/washer-availability.png)
+If a user does not have an account, they can register for one here. On this page, they can choose their dorm, so that only the washers associated with that dorm will be displayed.
+[Landing Page](http://washerwatcher.meteorapp.com/#/)
+![](images/Register.PNG)
+
+This page shows the availability of the washers associated with the current dorm of the user. [Washing Machine Availability Page](http://washerwatcher.meteorapp.com/#/machines)
+![](images/Availability.png)
 
 []
 On this page, a note can be created for a washer. This can be used for other information such as maintenance. [Washing Machine Notes Page](http://washerwatcher.meteorapp.com/#/notes)
@@ -40,7 +44,7 @@ cd into the app\ directory of the repository, and then run meteor npm install an
 
 To reset the data, you may exit meteor, and then run meteor reset
 
-# Design
+# Testing
 Placeholder
 
 # Development History
