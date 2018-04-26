@@ -68,6 +68,8 @@ To reset the data, you may exit meteor, and then run meteor reset.
 
 [Milestone 2 (M2)](https://github.com/washerwatcher/washerwatcher/projects/2)
 
+[Milestone 3 (M3)](https://github.com/washerwatcher/washerwatcher/projects/3)
+
 
 # The Team
 - Jarrin Kasuya
