@@ -11,6 +11,8 @@
 The UH dorms have washers available for the students to use for their needs. However, there isn't any way to see whether or not there's actually any washers available when a student decides to do their laundry. The solution to this problem is [Washer Watcher](http://washerwatcher.meteorapp.com/). This application will allow others to provide status updates of the availability of the washers. A timestamp will be provided with each update so a person can gauge the reliability of the information provided. The ultimate goal is to help alleviate the problem where someone goes to do their laundry just to find out that there isn't any available washers!
 
 # User Guide
+
+## Introduction to Washer Watcher
 The page that a user first sees. It introduces them to the goal of the app, providing them with a spot to log in.
 [Landing Page](http://washerwatcher.meteorapp.com/#/)
 ![](images/Landing.PNG)
@@ -23,15 +25,15 @@ Should a user move dorms or change dorms every semester, the preferences page al
 [User Preferences Page](http://washerwatcher.meteorapp.com/#/preferences)
 ![](images/Preferences.PNG)
 
-
+## Check Availability
 This page shows the availability of the washers associated with the current dorm of the user. 
 [Washing Machine Availability Page](http://washerwatcher.meteorapp.com/#/machines)
 ![](images/Availability.PNG)
 
 To update the status of the washer, or to add a note to a particular washer, click the Show Modal Button. 
-[Washing Machine Availability Page](http://washerwatcher.meteorapp.com/#/machines)
 ![](images/Notes_and_Availability.PNG)
 
+## Admin Functionality
 Admin users view a page similar to the availability page, but have the ability to delete a broken washer, or add a new washer. 
 [Admin Add Washer Page (Note: you must be certified as admin to view)](http://washerwatcher.meteorapp.com/#/machines)
 ![](images/Admin.PNG)
@@ -70,7 +72,10 @@ To reset the data, you may exit meteor, and then run meteor reset.
 # The Team
 - Jarrin Kasuya
   * Student at University of Hawaii at Manoa, majoring in Information and Computer Science.  
+  * jkasuya@hawaii.edu
 - Jason Kulka  
-  * Student at University of Hawaii at Manoa, majoring in Information and Computer Science.  
+  * Student at University of Hawaii at Manoa, majoring in Information and Computer Science. 
+  * jkulka@hawaii.edu
 - Dylan Nakamoto  
   * Student at University of Hawaii at Manoa, majoring in Information and Computer Science.  
+  * dylancn@hawaii.edu
