@@ -12,7 +12,6 @@ The UH dorms have washers available for the students to use for their needs. How
 
 # User Guide
 
-## Introduction to Washer Watcher
 The page that a user first sees. It introduces them to the goal of the app, providing them with a spot to log in.
 [Landing Page](http://washerwatcher.meteorapp.com/#/)
 ![](images/Landing.PNG)
@@ -42,6 +41,7 @@ Super-Admins can view all accounts and change any user to be an admin.
 [Super-Admin Account Status Page (Note: You must be certified as Super-Admin to view)](http://washerwatcher.meteorapp.com/#/admin)
 ![](images/SuperAdmin.PNG)
 
+## FAQ
 Any common questions users might have can be answered in the Frequently Asked Questions page. 
 [Frequently Asked Questions Page](http://washerwatcher.meteorapp.com/#/faq)
 ![](images/FAQ.PNG)
