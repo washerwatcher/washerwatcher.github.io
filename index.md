@@ -1,9 +1,9 @@
 # Table of contents
 
 * [About Washer Watcher](#about-washer-watcher)
-* [Mockup](#mockup)
+* [User Guide](#user-guide)
 * [Installation](#installation)
-* [Design](#design)
+* [Community Feedback](#community-feedback)
 * [Development history](#development-history)
 * [The Team](#the-team)
 
@@ -14,7 +14,7 @@ The UH dorms have washers available for the students to use for their needs. How
 
 The page that a user first sees. It introduces them to the goal of the app, providing them with a spot to log in.
 [Landing Page](http://washerwatcher.meteorapp.com/#/)
-![](images/Landing.PNG)
+![](images/Intro.PNG)
 
 If a user does not have an account, they can register for one here. On this page, they can choose their dorm, so that only the washers associated with that dorm will be displayed.
 [Register Page](http://washerwatcher.meteorapp.com/#/signup)
@@ -25,12 +25,12 @@ Should a user move dorms or change dorms every semester, the preferences page al
 ![](images/Preferences.PNG)
 
 ## Check Availability
-This page shows the availability of the washers associated with the current dorm of the user. 
+This page shows the availability of the washers associated with the current dorm of the user. If the washer are available, then the color will be green. If the washer are in use, the color will be yellow. If the washer is out of order, the color will be red. At the top of the page, there is a counter that notifies the user of how many washers are available in the dorm.
 [Washing Machine Availability Page](http://washerwatcher.meteorapp.com/#/machines)
-![](images/Availability.PNG)
+![](images/UpdatedAvailability.PNG)
 
-To update the status of the washer, or to add a note to a particular washer, click the Show Modal Button. 
-![](images/Notes_and_Availability.PNG)
+To update the status of the washer, or to add a note to a particular washer, click the Show Modal Button. This is also where the user may view any of the notes for the particular washer.
+![](images/Update.PNG)
 
 ## Admin Functionality
 Admin users view a page similar to the availability page, but have the ability to delete a broken washer, or add a new washer. 
